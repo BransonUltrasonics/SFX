@@ -1,0 +1,7 @@
+#!<cw>
+
+#change SP 0x00
+mem 0x180F 1 =0xC0
+
+
+
